@@ -1,0 +1,11 @@
+G:\PRG\otazka2.10\otazka2.10\bin\Debug\otazka2.10.exe.config
+G:\PRG\otazka2.10\otazka2.10\bin\Debug\otazka2.10.exe
+G:\PRG\otazka2.10\otazka2.10\bin\Debug\otazka2.10.pdb
+G:\PRG\otazka2.10\otazka2.10\obj\Debug\otazka2.10.csproj.AssemblyReference.cache
+G:\PRG\otazka2.10\otazka2.10\obj\Debug\otazka2.10.csproj.SuggestedBindingRedirects.cache
+G:\PRG\otazka2.10\otazka2.10\obj\Debug\otazka2._10.Form1.resources
+G:\PRG\otazka2.10\otazka2.10\obj\Debug\otazka2._10.Properties.Resources.resources
+G:\PRG\otazka2.10\otazka2.10\obj\Debug\otazka2.10.csproj.GenerateResource.cache
+G:\PRG\otazka2.10\otazka2.10\obj\Debug\otazka2.10.csproj.CoreCompileInputs.cache
+G:\PRG\otazka2.10\otazka2.10\obj\Debug\otazka2.10.exe
+G:\PRG\otazka2.10\otazka2.10\obj\Debug\otazka2.10.pdb
